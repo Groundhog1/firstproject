@@ -27,6 +27,6 @@ int main()
 
             }
         }
-    printf("%d", count);
+    printf("we can see %d", count);
     return 0;
 }
